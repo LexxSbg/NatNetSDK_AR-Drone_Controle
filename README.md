@@ -12,8 +12,8 @@ Die Geschwindigkeit der Drohne wurde für die Versuche in diesem eher kleinen La
 Hersteller des Kamerasystems: www.optitrack.com
 Hersteller der Drohne: www.parrot.com
 
-Für das Steuerprogramm wurden Sourcecode ein Beispielprogramm aus der SDK des Kameraherstellers (http://optitrack.com/downloads/developer-tools.html) adaptiert sowie vier Klassen des Projektes https://github.com/shtejv/ARDrone-Control-.NET implementiert.
+Für das Steuerprogramm wurden ein Beispielprogramm aus der SDK des Kameraherstellers (http://optitrack.com/downloads/developer-tools.html) adaptiert sowie vier Klassen des Projektes https://github.com/shtejv/ARDrone-Control-.NET implementiert.
 
 Alle Codeteile des NatNetSDK_ARDrone Programms die nicht von mir stammen sind markiert. Die von mir erstellten Codeteile stehen für weitere Projekte frei zur Verfügung. 
 
-Die Verwendung dieses Programmes erfolgt auf eigene Gefahr! Für die Funktionsweise sowie Resultate durch die Verwendung dieses Programmes wird in keiner Hinsicht Garantie übernommen! 
+Die Verwendung dieses Programmes erfolgt auf eigene Gefahr! Für die Funktionsweise sowie Resultate durch die Verwendung dieses Programmes wird in keiner Hinsicht Garantie übernommen oder gehaftet! 
